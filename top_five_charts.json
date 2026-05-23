@@ -1,0 +1,352 @@
+{
+    "1976" : [
+        {"song":"Silly Love Songs", "artist": "Wings"},
+        {"song":"Don't Go Breaking My Heart", "artist": "Elton John & Kiki Dee"},
+        {"song":"Disco Lady", "artist": "Johnnie Taylor"},
+        {"song":"December, 1963 (Oh, What a Night)", "artist": "The Four Seasons"},
+        {"song":"Play That Funky Music", "artist": "Wild Cherry"}
+],
+    "1977" : [
+        {"song":"Tonight's the Night (Gonna Be Alright)", "artist": "Rod Stewart"},
+        {"song":"I Just Want to Be Your Everything", "artist": "Andy Gibb"},
+        {"song":"Best of My Love", "artist": "The Emotions"},
+        {"song":"Evergreen (Love Theme from A Star Is Born)", "artist": "Barbra Streisand"},
+        {"song":"Angel in Your Arms", "artist": "Hot"}
+],
+    "1978" : [
+        {"song":"Shadow Dancing", "artist": "Andy Gibb"},
+        {"song":"Night Fever", "artist": "Bee Gees"},
+        {"song":"You Light Up My Life", "artist": "Debby Boone"},
+        {"song":"Stayin' Alive", "artist": "Bee Gees"},
+        {"song":"Kiss You All Over", "artist": "Exile"}
+],
+    "1979" : [
+        {"song":"My Sharona", "artist": "The Knack"},
+        {"song":"Bad Girls", "artist": "Donna Summer"},
+        {"song":"Le Freak", "artist": "Chic"},
+        {"song":"Da Ya Think I'm Sexy?", "artist": "Rod Stewart"},
+        {"song":"Reunited", "artist": "Peaches & Herb"}
+],
+    "1980" : [
+        {"song":"Call Me", "artist": "Blondie"},
+        {"song":"Another Brick in the Wall, Part II", "artist": "Pink Floyd"},
+        {"song":"Magic", "artist": "Olivia Newton-John "},
+        {"song":"Rock with You", "artist": "Michael Jackson"},
+        {"song":"Do That to Me One More Time", "artist": "Captain & Tennille"}
+],
+    "1981" : [
+        {"song":"Bette Davis Eyes", "artist": "Kim Carnes"},
+        {"song":"Endless Love", "artist": "Diana Ross & Lionel Richie"},
+        {"song":"Lady", "artist": "Kenny Rogers"},
+        {"song":"(Just Like) Starting Over", "artist": "John Lennon"},
+        {"song":"Jessie's Girl", "artist": "Rick Springfield"}
+],
+    "1982" : [
+        {"song":"Physical", "artist": "Olivia Newton-John"},
+        {"song":"Eye of the Tiger", "artist": "Survivor"},
+        {"song":"I Love Rock 'n Roll", "artist": "Joan Jett & The Blackhearts"},
+        {"song":"Ebony and Ivory", "artist": "Paul McCartney & Stevie Wonder"},
+        {"song":"Centerfold", "artist": "The J. Geils Band"}
+],
+    "1983" : [
+        {"song":"Every Breath You Take", "artist": "The Police"},
+        {"song":"Billie Jean", "artist": "Michael Jackson"},
+        {"song":"Flashdance... What a Feeling", "artist": "Irene Cara"},
+        {"song":"Down Under", "artist": "Men at Work"},
+        {"song":"Beat It", "artist": "Michael Jackson"}
+],
+    "1984" : [
+        {"song":"When Doves Cry", "artist": "Prince"},
+        {"song":"What's Love Got to Do with It", "artist": "Tina Turner"},
+        {"song":"Say, Say, Say", "artist": "Paul McCartney & Michael Jackson"},
+        {"song":"Footloose", "artist": "Kenny Loggins"},
+        {"song":"Against All Odds (Take a Look at Me Now)", "artist": "Phil Collins"}
+],
+    "1985" : [
+        {"song":"Careless Whisper", "artist": "George Michael"},
+        {"song":"Like a Virgin", "artist": "Madonna"},
+        {"song":"Wake Me Up Before You Go-Go", "artist": "Wham!"},
+        {"song":"I Want to Know What Love Is", "artist": "Foreigner"},
+        {"song":"I Feel for You", "artist": "Chaka Khan"}
+],
+    "1986" : [
+        {"song":"That's What Friends Are For", "artist": "Dionne and Friends"},
+        {"song":"Say You, Say Me", "artist": "Lionel Richie"},
+        {"song":"I Miss You", "artist": "Klymaxx"},
+        {"song":"On My Own", "artist": "Patti LaBelle & Michael McDonald"},
+        {"song":"Broken Wings", "artist": "Mr. Mister"}
+],
+    "1987" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1988" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1989" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1990" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1991" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1992" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1993" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1994" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1995" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1996" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1997" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1998" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "1999" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2000" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2001" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2002" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2003" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2004" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2005" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2006" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2007" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2008" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2009" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2010" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2011" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2012" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2013" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2014" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2015" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2016" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2017" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2018" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2019" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2020" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2021" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2022" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2023" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2024" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+],
+    "2025" : [
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""},
+        {"song":, "artist": ""}
+]
+}
