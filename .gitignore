@@ -218,6 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # temporary files
+topics_choi_lee_hu_downie.json
 songlist_with_lyrics.json
 test_topics.json
 test_songs.json
