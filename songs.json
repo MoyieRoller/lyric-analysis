@@ -1,7 +1,7 @@
 {
     "1976" : [
         {"title":"Silly Love Songs", "artist": "Wings"},
-        {"title":"Don't Go Breaking My Heart", "artist": "Elton John & Kiki Dee"},
+        {"title":"Don't Go Breaking My Heart", "artist": "Elton John"},
         {"title":"Disco Lady", "artist": "Johnnie Taylor"},
         {"title":"December, 1963 (Oh, What a Night)", "artist": "The Four Seasons"},
         {"title":"Play That Funky Music", "artist": "Wild Cherry"}
@@ -25,18 +25,18 @@
         {"title":"Bad Girls", "artist": "Donna Summer"},
         {"title":"Le Freak", "artist": "Chic"},
         {"title":"Da Ya Think I'm Sexy?", "artist": "Rod Stewart"},
-        {"title":"Reunited", "artist": "Peaches & Herb"}
+        {"title":"Reunited", "artist": "Peaches"}
 ],
     "1980" : [
         {"title":"Call Me", "artist": "Blondie"},
         {"title":"Another Brick in the Wall, Part II", "artist": "Pink Floyd"},
         {"title":"Magic", "artist": "Olivia Newton-John "},
         {"title":"Rock with You", "artist": "Michael Jackson"},
-        {"title":"Do That to Me One More Time", "artist": "Captain & Tennille"}
+        {"title":"Do That to Me One More Time", "artist": "Captain"}
 ],
     "1981" : [
         {"title":"Bette Davis Eyes", "artist": "Kim Carnes"},
-        {"title":"Endless Love", "artist": "Diana Ross & Lionel Richie"},
+        {"title":"Endless Love", "artist": "Diana Ross"},
         {"title":"Lady", "artist": "Kenny Rogers"},
         {"title":"(Just Like) Starting Over", "artist": "John Lennon"},
         {"title":"Jessie's Girl", "artist": "Rick Springfield"}
@@ -44,8 +44,8 @@
     "1982" : [
         {"title":"Physical", "artist": "Olivia Newton-John"},
         {"title":"Eye of the Tiger", "artist": "Survivor"},
-        {"title":"I Love Rock 'n Roll", "artist": "Joan Jett & The Blackhearts"},
-        {"title":"Ebony and Ivory", "artist": "Paul McCartney & Stevie Wonder"},
+        {"title":"I Love Rock 'n Roll", "artist": "Joan Jett"},
+        {"title":"Ebony and Ivory", "artist": "Paul McCartney"},
         {"title":"Centerfold", "artist": "The J. Geils Band"}
 ],
     "1983" : [
@@ -58,7 +58,7 @@
     "1984" : [
         {"title":"When Doves Cry", "artist": "Prince"},
         {"title":"What's Love Got to Do with It", "artist": "Tina Turner"},
-        {"title":"Say, Say, Say", "artist": "Paul McCartney & Michael Jackson"},
+        {"title":"Say, Say, Say", "artist": "Paul McCartney"},
         {"title":"Footloose", "artist": "Kenny Loggins"},
         {"title":"Against All Odds (Take a Look at Me Now)", "artist": "Phil Collins"}
 ],
@@ -73,7 +73,7 @@
         {"title":"That's What Friends Are For", "artist": "Dionne and Friends"},
         {"title":"Say You, Say Me", "artist": "Lionel Richie"},
         {"title":"I Miss You", "artist": "Klymaxx"},
-        {"title":"On My Own", "artist": "Patti LaBelle & Michael McDonald"},
+        {"title":"On My Own", "artist": "Patti LaBelle"},
         {"title":"Broken Wings", "artist": "Mr. Mister"}
 ],
     "1987" : [
@@ -141,7 +141,7 @@
 ],
     "1996" : [
         {"title":"Macarena (Bayside Boys Mix)", "artist": "Los del Río"},
-        {"title":"One Sweet Day", "artist": "Mariah Carey & Boyz II Men"},
+        {"title":"One Sweet Day", "artist": "Mariah Carey"},
         {"title":"Because You Loved Me", "artist": "Celine Dion"},
         {"title":"Nobody Knows", "artist": "The Tony Rich Project"},
         {"title":"Always Be My Baby", "artist": "Mariah Carey"}
@@ -149,13 +149,13 @@
     "1997" : [
         {"title":"Candle in the Wind 1997", "artist": "Elton John"},
         {"title":"You Were Meant for Me", "artist": "Jewel"},
-        {"title":"I'll Be Missing You", "artist": "Puff Daddy & Faith Evans"},
+        {"title":"I'll Be Missing You", "artist": "Puff Daddy"},
         {"title":"Un-Break My Heart", "artist": "Toni Braxton"},
         {"title":"Can't Nobody Hold Me Down", "artist": "Puff Daddy"}
 ],
     "1998" : [
         {"title":"Too Close", "artist": "Next"},
-        {"title":"The Boy Is Mine", "artist": "Brandy & Monica"},
+        {"title":"The Boy Is Mine", "artist": "Brandy"},
         {"title":"You're Still the One", "artist": "Shania Twain"},
         {"title":"Truly Madly Deeply", "artist": "Savage Garden"},
         {"title":"How Do I Live", "artist": "LeAnn Rimes"}
@@ -231,122 +231,122 @@
         {"title":"Apologize", "artist": "OneRepublic"}
 ],
     "2009" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Boom Boom Pow", "artist": "Black Eyed Peas"},
+        {"title":"Poker Face", "artist": "Lady Gaga"},
+        {"title":"Just Dance", "artist": "Lady Gaga"},
+        {"title":"I Gotta Feeling", "artist": "Black Eyed Peas"},
+        {"title":"Love Story", "artist": "Taylor Swift "}
 ],
     "2010" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Tik Tok", "artist": "Kesha"},
+        {"title":"Need You Now", "artist": "Lady Antebellum"},
+        {"title":"Hey, Soul Sister", "artist": "Train"},
+        {"title":"California Gurls", "artist": "Katy Perry"},
+        {"title":"OMG", "artist": "Usher"}
 ],
     "2011" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Rolling in the Deep", "artist": "Adele"},
+        {"title":"Party Rock Anthem", "artist": "LMFAO"},
+        {"title":"Firework", "artist": "Katy Perry"},
+        {"title":"E.T.", "artist": "Katy Perry"},
+        {"title":"Give Me Everything", "artist": "Pitbull"}
 ],
     "2012" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Somebody That I Used to Know", "artist": "Gotye"},
+        {"title":"Call Me Maybe", "artist": "Carly Rae Jepsen"},
+        {"title":"We Are Young", "artist": "Fun"},
+        {"title":"Payphone", "artist": "Maroon 5"},
+        {"title":"Lights", "artist": "Ellie Goulding "}
 ],
     "2013" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Thrift Shop", "artist": "Macklemore"},
+        {"title":"Blurred Lines", "artist": "Robin Thicke"},
+        {"title":"Radioactive", "artist": "Imagine Dragons"},
+        {"title":"Harlem Shake", "artist": "Baauer"},
+        {"title":"Can't Hold Us", "artist": "Macklemore"}
 ],
     "2014" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Happy", "artist": "Pharrell Williams"},
+        {"title":"Dark Horse", "artist": "Katy Perry"},
+        {"title":"All of Me", "artist": "John Legend"},
+        {"title":"Fancy", "artist": "Iggy Azalea"},
+        {"title":"Counting Stars", "artist": "OneRepublic"}
 ],
     "2015" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Uptown Funk", "artist": "Mark Ronson"},
+        {"title":"Thinking Out Loud", "artist": "Ed Sheeran"},
+        {"title":"See You Again", "artist": "Wiz Khalifa"},
+        {"title":"Trap Queen", "artist": "Fetty Wap"},
+        {"title":"Sugar", "artist": "Maroon 5"}
 ],
     "2016" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Love Yourself", "artist": "Justin Bieber"},
+        {"title":"Sorry", "artist": "Justin Bieber"},
+        {"title":"One Dance", "artist": "Drake"},
+        {"title":"Work", "artist": "Rihanna"},
+        {"title":"Stressed Out", "artist": "Twenty One Pilots"}
 ],
     "2017" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Shape of You", "artist": "Ed Sheeran"},
+        {"title":"Despacito (Remix)", "artist": "Luis Fonsi"},
+        {"title":"That's What I Like", "artist": "Bruno Mars"},
+        {"title":"Humble", "artist": "Kendrick Lamar"},
+        {"title":"Something Just Like This", "artist": "The Chainsmokers"}
 ],
     "2018" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"God's Plan", "artist": "Drake"},
+        {"title":"Perfect", "artist": "Ed Sheeran"},
+        {"title":"Meant to Be", "artist": "Bebe Rexha"},
+        {"title":"Havana", "artist": "Camila Cabello"},
+        {"title":"Rockstar", "artist": "Post Malone"}
 ],
     "2019" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Old Town Road", "artist": "Lil Nas X"},
+        {"title":"Sunflower", "artist": "Post Malone"},
+        {"title":"Without Me", "artist": "Halsey"},
+        {"title":"Bad Guy", "artist": "Billie Eilish"},
+        {"title":"Wow", "artist": "Post Malone"}
 ],
     "2020" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Blinding Lights", "artist": "The Weeknd"},
+        {"title":"Circles", "artist": "Post Malone"},
+        {"title":"The Box", "artist": "Roddy Ricch"},
+        {"title":"Don't Start Now", "artist": "Dua Lipa"},
+        {"title":"Rockstar", "artist": "DaBaby"}
 ],
     "2021" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Levitating", "artist": "Dua Lipa"},
+        {"title":"Save Your Tears", "artist": "The Weeknd"},
+        {"title":"Mood", "artist": "24kGoldn"},
+        {"title":"Good 4 U", "artist": "Olivia Rodrigo"},
+        {"title":"Kiss Me More", "artist": "Doja Cat"}
 ],
     "2022" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Heat Waves", "artist": "Glass Animals"},
+        {"title":"As It Was", "artist": "Harry Styles"},
+        {"title":"Stay", "artist": "The Kid Laroi"},
+        {"title":"Easy on Me", "artist": "Adele"},
+        {"title":"Shivers", "artist": "Ed Sheeran"}
 ],
     "2023" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Last Night", "artist": "Morgan Wallen"},
+        {"title":"Flowers", "artist": "Miley Cyrus"},
+        {"title":"Kill Bill", "artist": "SZA"},
+        {"title":"Anti-Hero", "artist": "Taylor Swift"},
+        {"title":"Creepin'", "artist": "Metro Boomin"}
 ],
     "2024" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Lose Control", "artist": "Teddy Swims"},
+        {"title":"A Bar Song (Tipsy)", "artist": "Shaboozey"},
+        {"title":"Beautiful Things", "artist": "Benson Boone"},
+        {"title":"I Had Some Help", "artist": "Post Malone"},
+        {"title":"Lovin on Me", "artist": "Jack Harlow"}
 ],
     "2025" : [
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""},
-        {"title":, "artist": ""}
+        {"title":"Die with a Smile", "artist": "Lady Gaga"},
+        {"title":"Luther", "artist": "Kendrick Lamar"},
+        {"title":"Birds of a Feather", "artist": "Billie Eilish"},
+        {"title":"Ordinary", "artist": "Alex Warren"},
+        {"title":"APT.", "artist": "Rosé"}
 ]
 }

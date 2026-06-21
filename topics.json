@@ -1,14 +1,12 @@
 {
     "topics": [
         {
-            "love": ["lov", "kiss", "touch", "heart", "forever", "break", "lips", "together", "baby", "hurt", "lady"],
-            "music": ["music", "rock", "roll", "guitar", "piano", "funk", "danc", "twist"],
+            "love": ["lov", "kiss", "touch", "heart", "forever", "break", "lips", "together", "baby", "hurt", "lady", "husband", "wife", "ring"],
+            "music": ["music", "rock", "roll", "guitar", "piano", "funk", "danc", "twist", "bass", "swing", "stride"],
             "emotions": ["emotion", "cry", "tear", "laugh", "weap", "happy", "sad", "feel", "good", "bad"],
-            "nature": ["nature", "outside", "tree", "flower", "grass", "leave", "spring", "winter", "summer", "autumn", "season", "green"],
+            "nature": ["nature", "outside", "tree", "flower", "grass", "leaf", "spring", "winter", "summer", "autumn", "season", "green"],
             "everyday-life": ["life", "liv", "outside", "beach", "street", "country", "road", "car", "work", "shop", "style"],
-            "family": ["friend", "mom", "dad", "father", "mother", "son", "daughter", "bro", "sis", "together", "grandma", "grandpa", "aunt", "uncle"],
-            "work": ["work", "business", "office", "job", "week", "day", "early", "late"],
-            "religion": ["god", "jesus", "pray", "sin", "higher", "king", "bible", "cross", "christ"]
+            "work": ["work", "business", "office", "job", "early", "late", "colleague", "boss"]
         }
     ]
 }
