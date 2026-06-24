@@ -217,6 +217,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# macOS bullshit
+.DS_Store
+
 # temporary files
 topics_choi_lee_hu_downie.json
 songlist_with_lyrics.json
