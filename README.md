@@ -1,0 +1,14 @@
+### data collection and processing
+To aquire the necessary song lyric data, [Genius' API](https://docs.genius.com) is used, because it could provide access to all lyrics from the initial selection. The process of obtaining lyrics is fairly easy, because there is only a client access token needed, which can be aquired with a free user account. The access token is locally stored in a [file](./key.json). To send queries to the API, the [lyricsgenius](https://pypi.org/project/lyricsgenius/) module is used, it returns the lyrics for a provided artist and songtitle as a string, which is then processed and stored together with other information for each song in a separate [file](./songlist_with_lyrics.json) *(only visible after initial execution of the notebook)*.
+
+One remark on the 250 songs from 1976 - 2025 has to be done: It is mostly the same scope as [The Billboard Melodic Music Dataset](https://github.com/madelinehamilton/BiMMuDa), exept for some years from 2020 and onwards. I personally skipped songs that are present in the top five charts within two years. Otherwise some songs would have occured twice in the list, which is not the intention of this project, as I want to analyse 250 *different* songs.
+### lyric analysis and categorization
+During this process every song is analyzed, word by word and compared via [longest common subsequence](https://en.wikipedia.org/wiki/Longest_common_subsequence) with a list of (root) words for each respective topic. The topic with the most matches of (root) words is appended to the previous generated [file](./songlist_with_lyrics.json).
+### results and possibilities to improve
+With the current topic-system it can be said, that most of the songs are categorized into the *love-song* topic. The second most common category was songs about *emotions*. A song about *nature* never occured within this dataset.
+
+There are still some issues with the actual algorithm. Using the longst-common-subsequence method means, that also words like `raining` are matched with `ring`. Therefor the accuracy ist not on the potential it should be. A possible solution could be provided by focusing more on actual root words and using a regular expression that considers the given root word is the first syllable of a word. The regular expression for the topic *work* could look like this: `// work| business| office| job| early| late| colleague| boss//`. This method does make one for-loop redundant, so the runtime could be improved as well.
+
+Also some topics contain more (root) words than others, meaning some topics have a higher chance of a word matching with the topic, than others. But I'm going to address this issue by collectivly adding words and topics via a questionnaire, that hopefully results in more diverse results than the current ones.
+
+For now it serves as a prototype and proof of concepts for simple lyric analysis.
